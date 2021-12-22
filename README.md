@@ -1,8 +1,9 @@
 # 👋🏽 Olá... Sou Júlio Neto
 
-<div align="center">
+<!--<div align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif" alt="Mario Bros Animation">
 </div>
+-->
 
 <br/>
 
