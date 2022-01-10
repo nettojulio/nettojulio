@@ -86,9 +86,9 @@
 <br/>
 
 <div>
-  - 🧑🏽‍💻 Desenvolvedor Web Full Stack em Formação <br/>
+  - 🧑🏽‍💻 Desenvolvedor Web Full Stack <br/>
   - 🔭 Atualmente desenvolvo Projetos utilizando Javascript <br/>
-  - 🌱 Aprendendo React, Node.JS e Postgres <br/>
+  - 🌱 Aprendizado contínuo em React, Node.JS e Postgres <br/>
   - 🎯 Apronfundar em Typescript <br/>
   - ⚡ Amo Consoles Retrô e Cultura Nordestina <br/>
   - 🌎 Salvador - BA <br/>
