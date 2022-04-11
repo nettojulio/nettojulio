@@ -42,7 +42,7 @@
  </td>
  <td>
    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nettojulio&theme=merko" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nettojulio&langs_count=6&theme=merko" alt="Top Languages" />
    </div>
  </td>
   </tr>
