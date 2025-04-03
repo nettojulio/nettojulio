@@ -11,7 +11,8 @@
   <a href="https://wakatime.com/@b6ba89af-07c9-4a6a-9899-e09f1eb166a8">
     <img src="https://wakatime.com/badge/user/b6ba89af-07c9-4a6a-9899-e09f1eb166a8.svg" alt="Total time coded since Nov 7 2021"/>
   </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nettojulio.nettojulio" alt="Total Visitors">
+  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=nettojulio.nettojulio" alt="Total Visitors">-->
+  <img src="https://visitor-badge-deno.deno.dev/nettojulio.visitor-badge-deno.svg" alt="Total Visitors">
 </div>
 
 <br/>
